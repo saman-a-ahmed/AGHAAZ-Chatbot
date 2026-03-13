@@ -1,0 +1,11 @@
+  pymupdf
+  langchain-text-splitters
+  google-genai
+  supabase
+  pgvector
+  python-dotenv
+  pandas
+  tqdm
+  pytesseract
+  pillow
+  pdf2image
